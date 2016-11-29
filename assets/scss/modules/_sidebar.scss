@@ -8,3 +8,155 @@
     margin-top: 1rem;
   }
 }
+
+.widget {
+  margin-bottom: rem-calc(30);
+  @extend .small-12;
+  @extend .float-left;
+
+  > h6 {
+    position: relative;
+    margin-bottom: rem-calc(10);
+    font-size: rem-calc(20);
+    text-transform: uppercase;
+
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      height: rem-calc(6);
+      background-color: #eaeaea;
+      top: 35%;
+      left: 0;
+      width: 100%;
+      z-index: 0;
+    }
+
+    span {
+      position: relative;
+      z-index: 9;
+      display: inline-block;
+      padding: rem-calc(10);
+      padding-left: 0;
+      background-color: $white;
+    }
+  }
+
+  ul:not(.vertical) {
+    @extend .no-bullet;
+    @extend .small-12;
+    @extend .float-left;
+
+    li {
+      @extend .small-12;
+      @extend .float-left;
+      padding-bottom: rem-calc(10);
+
+      &:not(:first-child) {
+        padding-top: rem-calc(10);
+        border-top: 1px solid #EAEAEA;
+      }
+    }
+    a {
+      color: #545454;
+      font-weight: 600;
+      font-family: Poppins,sans-serif;
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+
+  input[type="text"],
+  input[type="email"] {
+    background-color: #fbfbfc;
+    border-color: #f2f2f2;
+    color: #969696;
+    border-width: 2px;
+    width: 100%;
+    font-family: Poppins,sans-serif;
+    font-size: rem-calc(12);
+    font-weight: 600;
+    box-shadow: none;
+    &:focus {
+      box-shadow: none;
+    }
+  }
+  input {
+    height: rem-calc(50);
+  }
+
+  .tagcloud {
+    a {
+      @extend .button;
+      font-size: rem-calc(12) !important;
+      font-weight: 600;
+      font-family: Poppins,sans-serif;
+    }
+  }
+
+  .media-object {
+    font-family: Poppins,sans-serif;
+    margin-bottom: rem-calc(30);
+    padding-bottom: rem-calc(30);
+
+    &:not(:first-child) {
+      border-bottom: 1px solid #EAEAEA;
+    }
+
+    img {
+      width: rem-calc(110);
+    }
+    h4 {
+      font-size: rem-calc(15);
+    }
+    a {
+      color: $black;
+      &:hover {
+        color: #545454;
+      }
+    }
+    p {
+      font-size: rem-calc(12);
+      color: #ababab;
+      font-weight: 600;
+    }
+  }
+
+}
+
+.fes-default {
+  button {
+    @extend .button;
+    font-weight: 700;
+  }
+}
+
+.widget-links {
+  li {
+    float: left;
+    width: auto;
+  }
+  a {
+    color: $white;
+    height: rem-calc(52);
+    margin-right: rem-calc(10);
+    i {
+      line-height: rem-calc(32);
+      margin: 0;
+    }
+
+    &.twitter-link {
+      background-color: $azul-twitter;
+    }
+    &.facebook-link {
+      background-color: $azul-facebook;
+    }
+    &.gplus-link {
+      background-color: $vermelho-gplus;
+    }
+    &.instagram-link {
+      background-color: $azul-instagram;
+    }
+  }
+}

@@ -1,45 +1,40 @@
 <?php
-/**
- * The template for displaying pages
- *
- * This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages and that
- * other "pages" on your WordPress site will use a different template.
- *
- * @package FoundationPress
- * @since FoundationPress 1.0.0
- */
+get_header();
+global $post;
+?>
 
- get_header(); ?>
+	<div id="single-post" role="main" class="small-12 float-left">
 
- <?php get_template_part( 'template-parts/featured-image' ); ?>
+		<div class="row">
+			<?php while ( have_posts() ) : the_post(); ?>
 
- <div id="page" role="main">
+				<?php
+					if(is_page('contato') && get_field('am3_mapa', 'option'))
+						echo '<div class="small-12 columns am3-map">'. get_field('am3_mapa', 'option') .'</div>';
+				?>
 
- <?php do_action( 'foundationpress_before_content' ); ?>
- <?php while ( have_posts() ) : the_post(); ?>
-   <article <?php post_class('main-content') ?> id="post-<?php the_ID(); ?>">
-       <header>
-           <h1 class="entry-title"><?php the_title(); ?></h1>
-       </header>
-       <?php do_action( 'foundationpress_page_before_entry_content' ); ?>
-       <div class="entry-content">
-           <?php the_content(); ?>
-           <?php edit_post_link( __( 'Edit', 'foundationpress' ), '<span class="edit-link">', '</span>' ); ?>
-       </div>
-       <footer>
-           <?php wp_link_pages( array('before' => '<nav id="page-nav"><p>' . __( 'Pages:', 'foundationpress' ), 'after' => '</p></nav>' ) ); ?>
-           <p><?php the_tags(); ?></p>
-       </footer>
-       <?php do_action( 'foundationpress_page_before_comments' ); ?>
-       <?php comments_template(); ?>
-       <?php do_action( 'foundationpress_page_after_comments' ); ?>
-   </article>
- <?php endwhile;?>
+				<article id="post-<?php the_ID(); ?>" class="small-12 medium-8 columns end <?php if(is_page('contato')) echo 'contact-page'; ?>">
 
- <?php do_action( 'foundationpress_after_content' ); ?>
- <?php get_sidebar(); ?>
+					<header id="post-header">
+						<h2 class="entry-title"><?php the_title(); ?></h2>
+					</header>
 
- </div>
+					<?php do_action( 'foundationpress_post_before_entry_content' ); ?>
 
- <?php get_footer();
+					<div class="entry-content">
+						<?php the_content(); ?>
+						<?php edit_post_link( __( 'Editar', 'foundationpress' ), '<span class="edit-link">', '</span>' ); ?>
+					</div>
+
+				</article>
+			<?php endwhile;?>
+
+			<?php
+				if(!is_page('contato'))
+					get_sidebar();
+			?>
+		</div>
+
+	</div>
+
+<?php get_footer();

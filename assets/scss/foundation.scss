@@ -78,8 +78,9 @@
 
 // Modules
 @import "modules/navigation";
+@import "modules/single-page";
 @import "modules/footer";
-//@import "modules/sidebar";
+@import "modules/sidebar";
 //@import "modules/editor-style";
 
 // Components
@@ -87,6 +88,7 @@
 //@import "components/featured-image";
 //@import "components/dividers";
 //@import "components/links";
+@import "components/home";
 
 // Templates
 //@import "templates/front";

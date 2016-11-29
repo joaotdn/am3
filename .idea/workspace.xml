@@ -2,17 +2,364 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="846b7746-3a39-4bdb-845e-5e3d6caa454b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/global/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/acf.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/acf.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/acf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/images/spinner@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/images/sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_2EA2CC_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_E14D43_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_F0F0F0_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_F9F9F9_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_0_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-bg_highlight-soft_0_ffffff_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_2EA2CC_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_444444_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_DDDDDD_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_flat_55_5bc6f5_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-bg_highlight-soft_0_444444_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/cf7-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/date-time-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/flexible-content-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/gallery-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/google-maps-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/gravity-forms-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/options-page-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/add-ons/repeater-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/arrows@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/wpspin_light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/images/wpspin_light@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-cs_CZ.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fa_IR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fa_IR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fi.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-hu_HU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-it_IT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ja.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ja.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-nl_NL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-pl_PL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-pt_BR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ro_RO.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ru-RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ru_RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-sk_SK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-tr_TR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-uk.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/screenshot-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/modules/_single-page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/acf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/field-group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/field-groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/settings-addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/settings-export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/settings-info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/settings-tools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/updates/5.0.0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/field-group-field-conditional-logic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/field-group-field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/field-group-fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/field-group-locations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/field-group-options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-export-generate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-tools-export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/settings-tools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/update-network.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/update-notice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/admin/views/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/api/api-field-group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/api/api-field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/api/api-helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/api/api-template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/api/api-value.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/css/acf-field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/css/acf-global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/css/acf-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/acf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/font/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/jquery-ui-1.10.4.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/datepicker/jquery-ui-1.10.4.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_en.js.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_ug-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/inc/select2/select2_locale_zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/js/acf-field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/js/acf-field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/js/acf-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/assets/js/acf-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/actions/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/everything_fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/field_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/field_groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/revisions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/third_party.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/controllers/upgrade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/_functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/checkbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/color_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/date_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/jquery.ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/date_picker/style.date_picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/dummy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/google-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/page_link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/post_object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/relationship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/true_false.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/fields/wysiwyg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/revisions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/third_party.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/views/meta_box_fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/views/meta_box_location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/views/meta_box_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/core/wpml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/css/acf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/css/field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/css/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/checkbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/color_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/date_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/google-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/oembed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/page_link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/post_object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/relationship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/true_false.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/fields/wysiwyg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/attachment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/forms/widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/js/field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/js/field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/js/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/js/input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/js/tinymce.code.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-cs_CZ.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-de_DE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-es_ES.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fi.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-fr_FR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-he_IL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-hu_HU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-it_IT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-nl_NL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-pl_PL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ro_RO.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-ru_RU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-sk_SK.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-sv_SE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-tr_TR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-uk.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf-zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/lang/acf.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/preconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/acf-pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/admin/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/admin/options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/admin/settings-updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/admin/views/options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/admin/views/settings-updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/api/api-options-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/api/api-pro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/css/acf-pro-field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/css/acf-pro-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/js/acf-pro-field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/js/acf-pro-field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/js/acf-pro-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/assets/js/acf-pro-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/core/updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/fields/flexible-content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/fields/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/pro/fields/repeater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/acf-pro/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/blog.widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/slider-revolution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/social.widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.ajuda.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.automatizar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.depoimentos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.lista-servicos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/home.sobre-nos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-parts/social-links.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/elegant_font/HTML CSS/fonts/ElegantIcons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/elegant_font/HTML CSS/fonts/ElegantIcons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/elegant_font/HTML CSS/fonts/ElegantIcons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/elegant_font/HTML CSS/fonts/ElegantIcons.woff" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archive.php" afterPath="$PROJECT_DIR$/archive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascript/custom/flex-video.js" afterPath="$PROJECT_DIR$/assets/javascript/custom/flex-video.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascript/custom/init-foundation.js" afterPath="$PROJECT_DIR$/assets/javascript/custom/init-foundation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascript/custom/joyride-demo.js" afterPath="$PROJECT_DIR$/assets/javascript/custom/joyride-demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascript/custom/stickyfooter.js" afterPath="$PROJECT_DIR$/assets/javascript/custom/stickyfooter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/foundation.scss" afterPath="$PROJECT_DIR$/assets/scss/foundation.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/global/_settings.scss" afterPath="$PROJECT_DIR$/assets/scss/global/_settings.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/global/_wp-overrides.scss" afterPath="$PROJECT_DIR$/assets/scss/global/_wp-overrides.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/modules/_footer.scss" afterPath="$PROJECT_DIR$/assets/scss/modules/_footer.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/modules/_navigation.scss" afterPath="$PROJECT_DIR$/assets/scss/modules/_navigation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/modules/_sidebar.scss" afterPath="$PROJECT_DIR$/assets/scss/modules/_sidebar.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/cleanup.php" afterPath="$PROJECT_DIR$/library/cleanup.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/enqueue-scripts.php" afterPath="$PROJECT_DIR$/library/enqueue-scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/entry-meta.php" afterPath="$PROJECT_DIR$/library/entry-meta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/theme-support.php" afterPath="$PROJECT_DIR$/library/theme-support.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/widget-areas.php" afterPath="$PROJECT_DIR$/library/widget-areas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page.php" afterPath="$PROJECT_DIR$/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.php" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar.php" afterPath="$PROJECT_DIR$/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.php" afterPath="$PROJECT_DIR$/single.php" />
     </list>
     <ignored path="am3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,46 +379,65 @@
     <favorites_list name="am3" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_navigation.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scss/modules/_navigation.scss">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_single-page.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/scss/modules/_single-page.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="e#6#202#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="18">
-                <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="home.sobre-nos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-parts/home.sobre-nos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+              <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="58" column="159" selection-start-line="58" selection-start-column="159" selection-end-line="58" selection-end-column="159" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,15 +450,48 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/library/enqueue-scripts.php" />
-        <option value="$PROJECT_DIR$/assets/scss/global/_settings.scss" />
         <option value="$PROJECT_DIR$/assets/scss/global/_icons.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/foundation.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/assets/scss/modules/_navigation.scss" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/assets/javascript/custom/stickyfooter.js" />
+        <option value="$PROJECT_DIR$/library/slider-revolution.php" />
+        <option value="$PROJECT_DIR$/assets/javascript/custom/joyride-demo.js" />
+        <option value="$PROJECT_DIR$/template-parts/home.automatizar.php" />
+        <option value="$PROJECT_DIR$/template-parts/home.lista-servicos.php" />
+        <option value="$PROJECT_DIR$/template-parts/home.depoimentos.php" />
+        <option value="$PROJECT_DIR$/template-parts/home.ajuda.php" />
+        <option value="$PROJECT_DIR$/assets/scss/global/_settings.scss" />
+        <option value="$PROJECT_DIR$/library/cleanup.php" />
+        <option value="$PROJECT_DIR$/assets/scss/components/_home.scss" />
+        <option value="$PROJECT_DIR$/template-parts/social-links.php" />
+        <option value="$PROJECT_DIR$/assets/scss/modules/_footer.scss" />
+        <option value="$PROJECT_DIR$/assets/javascript/custom/flex-video.js" />
+        <option value="$PROJECT_DIR$/sidebar.php" />
+        <option value="$PROJECT_DIR$/library/entry-meta.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/assets/javascript/custom/init-foundation.js" />
+        <option value="$PROJECT_DIR$/assets/scss/global/_wp-overrides.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/scss/foundation.scss" />
+        <option value="$PROJECT_DIR$/library/widget-areas.php" />
+        <option value="$PROJECT_DIR$/template-parts/home.blog.php" />
+        <option value="$PROJECT_DIR$/assets/javascript/vendor/jquery.js" />
+        <option value="$PROJECT_DIR$/library/blog.widget.php" />
+        <option value="$PROJECT_DIR$/library/theme-support.php" />
+        <option value="$PROJECT_DIR$/single.php" />
+        <option value="$PROJECT_DIR$/author.php" />
+        <option value="$PROJECT_DIR$/tag.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/library/social.widget.php" />
+        <option value="$PROJECT_DIR$/assets/scss/modules/_sidebar.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/modules/_navigation.scss" />
+        <option value="$PROJECT_DIR$/library/enqueue-scripts.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/archive.php" />
+        <option value="$PROJECT_DIR$/page.php" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/template-parts/home.sobre-nos.php" />
+        <option value="$PROJECT_DIR$/assets/scss/modules/_single-page.scss" />
+        <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
   </component>
@@ -151,6 +550,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="am3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="am3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="am3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,41 +657,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="am3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="am3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../lumen/qualy" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.accepted" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -508,6 +905,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -693,6 +1091,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -719,41 +1123,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479738576717</updated>
-      <workItem from="1479738578393" duration="1361000" />
+      <workItem from="1479738578393" duration="6535000" />
+      <workItem from="1479747323588" duration="6912000" />
+      <workItem from="1479760080372" duration="18598000" />
+      <workItem from="1479815733116" duration="12979000" />
+      <workItem from="1479839748359" duration="21324000" />
+      <workItem from="1479914786944" duration="2136000" />
+      <workItem from="1480456693633" duration="4589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1361000" />
+    <option name="totallyTimeSpent" value="73073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="336" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22348484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -768,19 +1178,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/template-parts/home.sobre-nos.php</url>
+          <line>16</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/template-parts/social-links.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/entry-meta.php">
+    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -790,8 +1216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/global/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+        <state relative-caret-position="918">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -800,49 +1226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/enqueue-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/foundation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="91" column="2" selection-start-line="91" selection-start-column="2" selection-end-line="91" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#6#202#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,13 +1234,364 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="18">
             <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/foundation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/global/_wp-admin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/acf-pro/js/input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/slider-revolution.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.automatizar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.lista-servicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/global/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="144" column="11" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.ajuda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/components/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/custom/stickyfooter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="3" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/custom/flex-video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="90" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/custom/joyride-demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/custom/offCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/entry-meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#197#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/custom/init-foundation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/foundation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/widget-areas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/vendor/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="3" column="14520" selection-start-line="3" selection-start-column="14520" selection-end-line="3" selection-end-column="14520" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/blog.widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/theme-support.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="78" column="91" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="78" column="91" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/social-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="84" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/social.widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="119" column="63" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6426">
+          <caret line="357" column="26" selection-start-line="357" selection-start-column="26" selection-end-line="357" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#444#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/enqueue-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/global/_wp-overrides.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-869">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.depoimentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/home.sobre-nos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="105" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/modules/_single-page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="58" column="159" selection-start-line="58" selection-start-column="159" selection-end-line="58" selection-end-column="159" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

@@ -1,21 +1,49 @@
 <?php
-/**
- * The main template file
- *
- * This is the most generic template file in a WordPress theme
- * and one of the two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query.
- * e.g., it puts together the home page when no home.php file exists.
- *
- * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
- *
- * @package FoundationPress
- * @since FoundationPress 1.0.0
- */
-
-get_header(); ?>
+get_header();
+?>
 
 <div id="page" role="main">
+
+	<div id="slider-revolution-am3" class="small-12 float-left">
+		<?php
+		/**
+		 * Slider Revolution
+		 */
+		echo do_shortcode( '[rev_slider alias="original-home"]' );
+		?>
+	</div>
+
+	<?php
+		/**
+		 * Lista de serviços
+		 */
+		get_template_part( 'template-parts/home.lista-servicos' );
+
+		/**
+		 * Sobre nós
+		 */
+		get_template_part( 'template-parts/home.sobre-nos' );
+
+		/**
+		 * Por que automatizar
+		 */
+		get_template_part( 'template-parts/home.automatizar' );
+
+		/**
+		 * Depoimentos
+		 */
+		get_template_part( 'template-parts/home.depoimentos' );
+
+		/**
+		 * Ajuda
+		 */
+		get_template_part( 'template-parts/home.ajuda' );
+
+		/**
+		 * Blog
+		 */
+		get_template_part( 'template-parts/home.blog' );
+	?>
 
 </div>
 

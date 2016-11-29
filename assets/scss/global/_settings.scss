@@ -49,7 +49,7 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #2199e8,
+  primary: #ff934c,
   secondary: #777,
   success: #3adb76,
   warning: #ffae00,
@@ -72,6 +72,18 @@ $global-radius: 0;
 $global-text-direction: ltr;
 $global-flexbox: false;
 $print-transparent-backgrounds: true;
+
+//social cores
+$azul-twitter: #00aced;
+$azul-facebook: #3b5998;
+$vermelho-gplus: #dd4b39;
+$azul-instagram: #125688;
+
+//Cores moleculas
+$laranja: #ff934c;
+$azul-claro: #00abb7;
+$violeta-clara: #5a70ad;
+$azul-mar: #68c0ed;
 
 @include add-foundation-colors;
 
@@ -102,7 +114,7 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+$header-font-family:  Poppins,sans-serif;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;

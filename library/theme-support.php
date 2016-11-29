@@ -44,3 +44,21 @@ function foundationpress_theme_support() {
 
 add_action( 'after_setup_theme', 'foundationpress_theme_support' );
 endif;
+
+if (function_exists('add_image_size')) {
+	add_image_size('home.blog', 370, 150, true);
+}
+
+function getThumbUrl($size) {
+	global $post;
+	if(!$size || $size == null) {
+		$size = 'full';
+	}
+	$thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), $size );
+	echo $thumb[0];
+}
+
+function modify_read_more_link() {
+	return '<br><a class="more-link" href="' . get_permalink() . '">Continue lendo</a>';
+}
+add_filter( 'the_content_more_link', 'modify_read_more_link' );

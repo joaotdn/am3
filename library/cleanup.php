@@ -135,3 +135,14 @@ remove_action( 'woocommerce_before_main_content', 'woocommerce_output_content_wr
 add_action('woocommerce_before_main_content', 'foundationpress_before_content', 10);
 remove_action( 'woocommerce_after_main_content', 'woocommerce_output_content_wrapper_end', 10);
 add_action('woocommerce_after_main_content', 'foundationpress_after_content', 10);
+
+/**
+ * Configurar resumo
+ * @param $length
+ * @return int
+ */
+function new_excerpt_length($length) {
+	return 20;
+}
+add_filter('excerpt_length', 'new_excerpt_length');
+remove_filter('the_excerpt', 'wpautop'); // sem paragrafo no resumo

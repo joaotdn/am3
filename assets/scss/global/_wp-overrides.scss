@@ -1,8 +1,38 @@
+%trans {
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+
+  @include breakpoint(medium down) {
+    padding-top: rem-calc(70) !important;
+  }
+}
+
+a {
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+figure {
+  margin: 0 !important;
+}
+
 .wp-caption > figcaption {
   max-width: 100%;
   font-size: 0.8rem;
   color: #999;
   padding: 0.25rem 0;
+  font-style: italic;
 }
 
 p.wp-caption-text{
@@ -27,4 +57,27 @@ p.wp-caption-text{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+//containers
+.d-iblock {
+  display: inline-block;
+}
+.d-block {
+  display: block;
+}
+.v-center {
+  @include vertical-center;
+}
+.rel {
+  position: relative;
+}
+.no-margin {
+  margin: 0;
+}
+.section {
+  padding: rem-calc(100 0);
+}
+.vh {
+  visibility: hidden;
 }
