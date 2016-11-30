@@ -19,7 +19,7 @@ get_header(); ?>
 
 <div id="page" role="main" class="small-12 float-left">
 
-	<div class="row">
+	<div id="archive-page" class="row">
 
 		<nav class="small-12 medium-8 columns">
 		<?php if ( have_posts() ) : ?>

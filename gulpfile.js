@@ -37,7 +37,11 @@ var PATHS = {
     'assets/components/what-input/what-input.js',
     'assets/components/foundation-sites/js/foundation.core.js',
     'assets/components/foundation-sites/js/foundation.util.*.js',
+    'assets/components/jpreloader/js/jpreloader.js',
     'assets/components/wow/dist/wow.js',
+    'assets/components/jquery-cycle2/build/jquery.cycle2.js',
+    'assets/components/jquery-cycle2/src/jquery.cycle2.swipe.js',
+    'assets/components/jquery-cycle2/src/jquery.cycle2.tile.js',
 
     // Paths to individual JS components defined below
     // 'assets/components/foundation-sites/js/foundation.abide.js',
