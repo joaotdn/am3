@@ -9,7 +9,7 @@
  */
 
 ?>
-		<div id="footer-container" class="small-12 float-left section">
+		<div id="footer-container" class="small-12 float-left section <?php if(is_page()) echo "no-margin"; ?>">
 
 			<footer id="footer" class="row">
 				<?php do_action( 'foundationpress_before_footer' ); ?>

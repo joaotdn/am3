@@ -2,7 +2,7 @@
 $servicos = get_field('am3_servicos', 'option');
 if($servicos):
 ?>
-<nav id="lista-servicos" class="small-12 float-left section">
+<nav class="lista-servicos small-12 float-left section">
 	<div class="row small-up-1 medium-up-2 large-up-4">
 		<?php
 		$i = 0;
